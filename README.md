@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Motor House — Car Dealership Inventory System
 
 A full-stack inventory application built to meet the Car Dealership Inventory System kata: JWT authentication, protected vehicle management, searching/filtering, purchase and restock operations, React UI, and backend tests.
